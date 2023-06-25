@@ -1,5 +1,5 @@
 # HWs_git
-Homeworks of some Ydata course
+Notebooks with homework in [Y-Data course](https://ydata.co.il/).
 
 
-Files H_W_ are homeworks of Deep Learning course
+Files that started with "H_W_" are homeworks of Deep Learning course
